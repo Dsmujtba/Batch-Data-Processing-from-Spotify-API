@@ -1,9 +1,3 @@
-# Batch-Data-Processing-from-Spotify-API
-This repository contains a batch data processing pipeline designed to extract, process, and store data from the Spotify API. The pipeline is built to support marketing analysts in understanding music trends and their potential correlation with product sales.
-Here’s a **best practices README file** for your project, framed as **Batch Data Processing from an API**. This README provides an overview of the project, its purpose, setup instructions, and best practices for maintaining and scaling the pipeline.
-
----
-
 # Batch Data Processing from Spotify API
 
 This project demonstrates how to perform **batch data processing** from the Spotify API. The goal is to extract data about new album releases and their tracks, store it locally, and prepare it for further analysis. This pipeline is designed to support marketing analysts in understanding music trends and their potential correlation with product sales.
