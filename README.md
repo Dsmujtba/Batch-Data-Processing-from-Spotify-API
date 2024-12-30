@@ -119,20 +119,13 @@ The pipeline is designed to handle **authentication**, **pagination**, and **tok
 ### 6. **Batch Processing**
    - Use batch processing to handle large datasets efficiently. Avoid loading all data into memory at once.
 
-### 7. **Logging**
-   - Add logging to track the progress of the pipeline and identify issues. For example:
-     ```python
-     import logging
-     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-     ```
-
-### 8. **Automation**
+### 7. **Automation**
    - Schedule the pipeline to run periodically (e.g., daily) using tools like `cron` or Apache Airflow.
 
-### 9. **Data Validation**
+### 8 **Data Validation**
    - Validate the extracted data to ensure it meets expected formats and contains no missing or corrupted values.
 
-### 10. **Documentation**
+### 9. **Documentation**
    - Maintain clear and up-to-date documentation for the pipeline, including setup instructions, file descriptions, and best practices.
 
 ---
