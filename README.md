@@ -163,5 +163,3 @@ Contributions are welcome! If you'd like to contribute, please:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-This README provides a comprehensive guide to your project, ensuring that anyone who works on it understands its purpose, setup, and best practices. It also highlights potential enhancements for future development.
